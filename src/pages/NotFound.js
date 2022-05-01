@@ -1,4 +1,4 @@
-import logo from "/home/SarikAnwar/Downloads/REACT STUDY/09-time-to-practice-starting-code/09-time-to-practice-starting-code/src/pages/404.jpg"
+import logo from "./404.jpg";
 const NotFound = () => {
     return (
         <div className="centered">
